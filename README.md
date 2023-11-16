@@ -61,6 +61,8 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ![Video](./assets/images/Employee-Tracker.gif)
 
+https://www.youtube.com/watch?v=6pFGzgqhTBc&ab_channel=ANDRESMEJIA
+
 ## Link
 
 

@@ -10,7 +10,7 @@
 
 
 ## Description
-Developed a command-line application to manage a company's employee database. We used Node.js, Inquierer, and MySQL to developed the back end of the application. To begin the application, use must run: 
+This App is to build the back end for an e-commerce site. I will take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 ```
 node index.js
 ```

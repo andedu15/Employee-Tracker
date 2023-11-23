@@ -15,7 +15,7 @@
     "inquirer",
     "mysql"
   ],
-  "author": "Juan Garcia",
+  "author": "Andres Mejia",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/andedu15/employee-tracker/issues"

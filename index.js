@@ -220,7 +220,7 @@ var employee_tracker = function () {
                         }
                     },
                     {
-                        // Updating the New Role
+                        // Updating the New Role*
                         type: 'list',
                         name: 'role',
                         message: 'What is their new role?',
@@ -260,3 +260,4 @@ var employee_tracker = function () {
         }
     })
 };
+
